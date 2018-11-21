@@ -71,4 +71,4 @@ patient ident= s2/2007-5-13
 	 data=  53/mg/21/HEADACHE added at 2016-10-04T16:14:49+01:00
 ...............................
 
-6) Log files for these scripts can be found in the logs directory
+6) Log files for these scripts can be found in logs directory
